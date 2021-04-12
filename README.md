@@ -45,3 +45,6 @@ The purpose of this assignment is to help you gain experience with interactive g
 (4) the game is to support simple interactive editing of some of the objects in the world
 
 (5) the game is to include sounds appropriate to collisions and other events
+
+### Output for A3
+<img src="A3_Output.png?raw=true">

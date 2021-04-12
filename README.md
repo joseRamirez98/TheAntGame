@@ -21,6 +21,8 @@ For example, to run A1:
   <li>Give a main class name, package name, and select a “native” theme, and “Hello World(Bare Bones)” template (for manual GUI building). Hit “Finish”.</li>
   <li>Main Class Name: Starter (keep the same for all assignments)</li>
   <li>Package: com.mycompany.a1</li>
+  <li>Once your project is ready on Eclipse, copy and paste all Java files provided from respective A folder into the following directory: A1Prj/scr/com.mycompany/a1. Then compile the code.</li>
+  <li>To run the application, while still on Eclipse IDE, in the A1prj directory, look for a file named Simulator_1Prj.launch. Right click, select "Run as", click Simulator_1Prj</li>
 </ul>
 
 ## Introduction for A1

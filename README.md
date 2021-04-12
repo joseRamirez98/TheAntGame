@@ -2,13 +2,13 @@
 This assignment is a semester long project for Dr. Gordon's CSC 133 class (Object-Oriented Computer Graphics Programming) at Sacramento State University. 
 
 ## Requirements To Run 
+This project is being completed using CodeNameOne, an open-source cross-platform framework aiming to provide write once, run anywhere code for various mobile and desktop operating systems, along with the Eclipse IDE.
+
 • Install latest version of “Java SE JDK version 8” (release 1.8.0_231): <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">LINK</a>
 
 • Latest version of “Eclipse IDE for Java Developers” (Eclipse IDE 2019-12 R - version 4.14.0) is required : <a href="https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-java-developers">LINK</a>
 
 • Install CN1 plugin (latest version 6.0.0) to Eclipse: In Eclipse select “Help” → “Eclipse Marketplace” → search for “Codename One” and follow the installation process
-
-This project is being completed using CodeNameOne, an open-source cross-platform framework aiming to provide write once, run anywhere code for various mobile and desktop operating systems, along with the Eclipse IDE.
 ## Introduction for A1
 This semester we will study object-oriented graphics programming and design by developing a simple video game we’ll call ThePath. In this game, you (the player) will be controlling an ant walking around a path while trying to avoid collisions with spiders and to keep your ant fed.
 

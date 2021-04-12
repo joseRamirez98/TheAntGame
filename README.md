@@ -2,6 +2,7 @@
 
 ## Background 
 This assignment is a semester long project for Dr. Gordon's CSC 133 class (Object-Oriented Computer Graphics Programming) at Sacramento State University. 
+
 This project is being completed using CodeNameOne, an open-source cross-platform framework aiming to provide write once, run anywhere code for various mobile and desktop operating systems, along with the Eclipse IDE.
 ## Introduction for A1
 This semester we will study object-oriented graphics programming and design by developing a simple video game we’ll call ThePath. In this game, you (the player) will be controlling an ant walking around a path while trying to avoid collisions with spiders and to keep your ant fed.

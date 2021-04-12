@@ -17,16 +17,11 @@ For example, to run A1:
 <ul>
   <li>Open Eclispe, File → New → Project → Codename One Project</li>
   <li>Give a project name and uncheck “Java 8 project”. Hit “Next”</li>
+  <li>Project Name: A1Prj.</li>
+  <li>Give a main class name, package name, and select a “native” theme, and “Hello World(Bare Bones)” template (for manual GUI building). Hit “Finish”.</li>
+  <li>Main Class Name: Starter (keep the same for all assignments)</li>
+  <li>Package: com.mycompany.a1</li>
 </ul>
-
-
-• Project Name: A1Prj
-
-• Give a main class name, package name, and select a “native” theme, and “Hello World(Bare Bones)” template (for manual GUI building). Hit “Finish”.
-
-Main Class Name: Starter (keep the same for all assignments)
-
-Package: com.mycompany.a1
 
 ## Introduction for A1
 This semester we will study object-oriented graphics programming and design by developing a simple video game we’ll call ThePath. In this game, you (the player) will be controlling an ant walking around a path while trying to avoid collisions with spiders and to keep your ant fed.

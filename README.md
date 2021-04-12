@@ -17,7 +17,11 @@ An important goal for this assignment will be to reorganize your code so that it
 Single-character commands entered via a text field in A1 will be replaced by GUI components (side menu items, buttons, key bindings, etc.). Each such component will have an associated “command” object, and the command objects will perform the same operations as previously performed by the single-character commands.
 
 The program must use appropriate interfaces and built-in classes for organizing the required design patterns. The following design patterns are to be implemented in this assignment:
+
 • Observer/Observable – to coordinate changes in the model with the various views,
+
 • Iterator – to walk through all the game objects when necessary,
+
 • Command – to encapsulate the various commands the player can invoke,
+
 • Singleton – to insure that only a single instance of Ant can exist.

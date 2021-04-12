@@ -8,6 +8,7 @@ This semester we will study object-oriented graphics programming and design by d
 
 
 The goal of this first assignment is to develop a good initial class hierarchy and control structure by designing the program in UML and then implementing it in Codename One (CN1). This version will use keyboard input commands to control and display the contents of a “game world” containing the set of objects in the game. In future assignments, many of the keyboard commands will be replaced by interactive GUI operations, and we will add graphics, animation, and sound. For now we will simply simulate the game in “text mode” with user input coming from the keyboard and “output” being lines of text on the screen.
+
 ### Output for A1
 <img src="A1_Output.png?raw=true">
 
@@ -27,3 +28,6 @@ The program must use appropriate interfaces and built-in classes for organizing 
 • Command – to encapsulate the various commands the player can invoke,
 
 • Singleton – to insure that only a single instance of Ant can exist.
+
+### Output for A2
+<img src="A2_Output.png?raw=true">

@@ -25,6 +25,8 @@ For example, to run A1:
   <li>To run the application, while still on Eclipse IDE, in the A1prj directory, look for a file named Simulator_1Prj.launch. Right click, select "Run as", click Simulator_1Prj</li>
 </ul>
 
+The process is the same to run A2 and A3 projects.
+
 ## Introduction for A1
 This semester we will study object-oriented graphics programming and design by developing a simple video game we’ll call ThePath. In this game, you (the player) will be controlling an ant walking around a path while trying to avoid collisions with spiders and to keep your ant fed.
 

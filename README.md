@@ -14,9 +14,11 @@ You will need to create a new codenameone project folder to run each of the assi
 
 For example, to run A1: 
 
-• Open Eclispe, File → New → Project → Codename One Project
+<ul>
+  <li>Open Eclispe, File → New → Project → Codename One Project</li>
+  <li>Give a project name and uncheck “Java 8 project”. Hit “Next”</li>
+</ul>
 
-• Give a project name and uncheck “Java 8 project”. Hit “Next”
 
 • Project Name: A1Prj
 

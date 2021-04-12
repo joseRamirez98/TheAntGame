@@ -9,6 +9,22 @@ This project is being completed using CodeNameOne, an open-source cross-platform
 • Latest version of “Eclipse IDE for Java Developers” (Eclipse IDE 2019-12 R - version 4.14.0) is required : <a href="https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-java-developers">LINK</a>
 
 • Install CN1 plugin (latest version 6.0.0) to Eclipse: In Eclipse select “Help” → “Eclipse Marketplace” → search for “Codename One” and follow the installation process
+## How To Run
+You will need to create a new codenameone project folder to run each of the assignments. 
+
+For example, to run A1: 
+• Open Eclispe, File → New → Project → Codename One Project
+
+• Give a project name and uncheck “Java 8 project”. Hit “Next”
+
+• Project Name: A1Prj
+
+• Give a main class name, package name, and select a “native” theme, and “Hello World(Bare Bones)” template (for manual GUI building). Hit “Finish”.
+
+•  Main Class Name: Starter (keep the same for all assignments)
+
+•  Package: com.mycompany.a1
+
 ## Introduction for A1
 This semester we will study object-oriented graphics programming and design by developing a simple video game we’ll call ThePath. In this game, you (the player) will be controlling an ant walking around a path while trying to avoid collisions with spiders and to keep your ant fed.
 

@@ -1,6 +1,8 @@
 # TheAntGame
 This assignment is a semester long project for Dr. Gordon's CSC 133 class (Object-Oriented Computer Graphics Programming) at Sacramento State University. 
 
+NOTE: A3 is still a work in progress.
+
 ## Requirements To Run 
 This project is being completed using CodeNameOne, an open-source cross-platform framework aiming to provide write once, run anywhere code for various mobile and desktop operating systems, along with the Eclipse IDE.
 
